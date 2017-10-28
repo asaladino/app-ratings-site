@@ -4,7 +4,7 @@
         <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <title>
-            <?= __d('cake_dev', 'Mercy') ?>:
+            <?= __d('cake_dev', 'App Ratings') ?>:
             <?= $title_for_layout ?>
         </title>
         <?php
